@@ -1,7 +1,7 @@
 document.getElementById("btn_yes").addEventListener("click", () => {
   Swal.fire({
     title: "❤️ I <3 You ❤️",
-    html: "<p>Te amo</p>",
+    html: "<p>Deseo que seas muy feliz amor, tengo muchísimas ganas de ya por fin poder estar juntos. Te amo con locura 😍💕❤️</p>",
     icon: "info",
     confirmButtonText: "Ir a",
   }).then(() => {
